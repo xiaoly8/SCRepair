@@ -26,6 +26,6 @@ Our experiments subjects are the followings:
 |Siring Clock Auction|	0x79a198b2355ca2aef695d8a4987582e093911ebb|
 |Government|	0xF45717552f12Ef7cb65e95476F217Ea008167Ae3|
 
-We have confirmed that the above subjects are either have no balance in the contract, self-destructed, 
+The above subjects are either have no balance in the contract, self-destructed, 
 or the detected vulnerabilities reported in our paper cannot be exploited for stealing the Ether stored in the contract.
 You may access their source code at https://etherscan.io.
