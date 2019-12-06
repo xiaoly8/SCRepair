@@ -22,7 +22,7 @@ Publication
 Smart Contract Repair on Arxiv (Pending)
 
 Publication Experiment Information
-===
+---
 
 See Experiments/Readme.md
 
