@@ -21,7 +21,7 @@ Publication
 
 Smart Contract Repair on Arxiv (Pending)
 
-Experiment Replication
+Publication Experiment Information
 ===
 
 See Experiments/Readme.md
