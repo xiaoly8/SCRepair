@@ -15,6 +15,9 @@ python3 CLI.py repair PATH_TO_CONTRACT
 ```
 
 You also need to configure the detectors intended to be used via the `--detector` flag.
+Besides, you may use `--targeted_vul` to only target subset of detected vulnerabilities.
+
+As output, the paths to the plausible patches will be printed to the standard out.
 
 Publication
 ===
@@ -56,4 +59,4 @@ People
 
 Abhik Roychoudhury, Pricipal Investigator
 
-Developed by Xiao Liang <xiaoly@comp.nus.edu.sg>
+Developed by Xiao Liang Yu <xiaoly@comp.nus.edu.sg>
