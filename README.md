@@ -60,6 +60,7 @@ Our experiments subjects are the followings:
 
 The above subjects are either have no balance in the contract at the time we wrote this paper, self-destructed, 
 or the detected vulnerabilities reported in our paper cannot be exploited for stealing the Ether stored in the contract.
+Please contact us immediately as soon as you find the above described status is no longer up-to-date.
 You may access their source code at [etherscan](https://etherscan.io).
 
 
