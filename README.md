@@ -57,6 +57,6 @@ You may access their source code at [etherscan](https://etherscan.io).
 People
 ===
 
-Abhik Roychoudhury, Pricipal Investigator
+Abhik Roychoudhury, Principal Investigator
 
 Developed by Xiao Liang Yu <xiaoly@comp.nus.edu.sg>
