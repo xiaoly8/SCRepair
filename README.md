@@ -1,9 +1,18 @@
 SCRepair
 ===
 
-The first automated smart contract gas-optimized vulnerability repair engine. SCRepair can automatically generate patches fixing vulnerabilities while attempt to keep the test cases passing.
+The first automated smart contract gas-optimized vulnerability repair system. SCRepair can automatically generate patches fixing vulnerabilities while attempt to keep the test cases passing.
 
 Current implementation supports Slither and Oyente as vulnerability detector.
+
+Installation
+===
+
+```Bash
+python3 setup.py install
+```
+
+You might need to install the vulnerability detector of choice separately before our repair system can invoke.
 
 To Use
 ===
