@@ -35,7 +35,19 @@ As output, the paths to the plausible patches will be printed to the standard ou
 Publication
 ===
 
-Smart Contract Repair on Arxiv (Pending)
+"Smart Contract Repair" available at https://arxiv.org/abs/1912.05823
+
+If this system is helpful for your publication, please cite with the following latex bibtex entry:
+```bibtex
+@misc{yu2019smart,
+    title={Smart Contract Repair},
+    author={Xiao Liang Yu and Omar Al-Bataineh and David Lo and Abhik Roychoudhury},
+    year={2019},
+    eprint={1912.05823},
+    archivePrefix={arXiv},
+    primaryClass={cs.SE}
+}
+```
 
 "Smart Contract Repair" Paper Experiment Dataset
 ===
