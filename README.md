@@ -35,7 +35,7 @@ As output, the paths to the plausible patches will be printed to the standard ou
 Publication
 ===
 
-"Smart Contract Repair" available at https://arxiv.org/abs/1912.05823
+Paper "Smart Contract Repair" available at https://arxiv.org/abs/1912.05823
 
 If this system is helpful for your publication, please cite with the following latex bibtex entry:
 ```bibtex
