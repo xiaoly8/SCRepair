@@ -39,7 +39,7 @@ Paper "Smart Contract Repair" available at https://arxiv.org/abs/1912.05823
 
 If this system is helpful for your publication, please cite with the following latex bibtex entry:
 ```bibtex
-@misc{yu2019smart,
+@misc{yu2019SCRepair,
     title={Smart Contract Repair},
     author={Xiao Liang Yu and Omar Al-Bataineh and David Lo and Abhik Roychoudhury},
     year={2019},
