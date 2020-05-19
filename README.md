@@ -35,17 +35,16 @@ As output, the paths to the plausible patches will be printed to the standard ou
 Publication
 ===
 
-Paper "Smart Contract Repair" available at https://arxiv.org/abs/1912.05823
+Paper "Smart Contract Repair" will appear in TOSEM (ACM Transactions on Software Engineering and Methodology). The full-text is available at https://arxiv.org/abs/1912.05823
 
 If this system is helpful for your publication, please cite with the following latex bibtex entry:
 ```bibtex
-@misc{yu2019SCRepair,
+@misc{yu2020SCRepair,
     title={Smart Contract Repair},
     author={Xiao Liang Yu and Omar Al-Bataineh and David Lo and Abhik Roychoudhury},
-    year={2019},
-    eprint={1912.05823},
-    archivePrefix={arXiv},
-    primaryClass={cs.SE}
+    year={2020},
+    journal={ACM Transactions on Software Engineering and Methodology (TOSEM)},
+    publisher={ACM New York, NY, USA}
 }
 ```
 
