@@ -4,7 +4,7 @@ SCRepair
 The first automated smart contract gas-optimized vulnerability repair system. SCRepair can automatically generate patches fixing vulnerabilities while attempt to keep the test cases passing. More importantly, SCRepair attempts to generate patches with lower gas usage as long as possible!
 
 Current implementation supports Slither and Oyente as vulnerability detector.
-Currently, only Ethereum smart contract written in Solidity is supported.
+Ethereum smart contract written in Solidity is supported.
 
 Installation
 ===
