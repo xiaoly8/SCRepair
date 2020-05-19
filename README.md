@@ -37,7 +37,7 @@ Publication
 
 Paper "Smart Contract Repair" will appear in TOSEM (ACM Transactions on Software Engineering and Methodology). The full-text is available at https://arxiv.org/abs/1912.05823
 
-If this system is helpful for your publication, please cite with the following latex bibtex entry:
+If this system is helpful or related to your publication, please cite with the following latex bibtex entry:
 ```bibtex
 @misc{yu2020SCRepair,
     title={Smart Contract Repair},
