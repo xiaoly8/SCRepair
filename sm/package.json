@@ -52,7 +52,7 @@
     "node": ">=8.9"
   },
   "dependencies": {
-    "@sindresorhus/is": "^0.15.0",
+    "@sindresorhus/is": "^4.4.0",
     "chance": "^1.0.18",
     "debug": "^4.1.1",
     "is-generator-fn": "^2.1.0",
@@ -94,7 +94,7 @@
     "tslint-config-prettier": "^1.17.0",
     "tslint-immutable": "^5.0.0",
     "typedoc": "^0.13.0",
-    "typescript": "^3.5.3"
+    "typescript": "^3.8.0"
   },
   "ava": {
     "failFast": true,

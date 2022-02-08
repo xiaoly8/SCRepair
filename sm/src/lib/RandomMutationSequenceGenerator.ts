@@ -45,7 +45,6 @@ import {
   ReplacementM,
 } from './Mutations';
 import { getASTNodeFromPath } from './utils';
-import { FaultSpaceInfo } from './RandomMutationSequenceGenerator';
 
 
 type MutationDistance = number;
